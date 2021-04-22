@@ -46,4 +46,4 @@ I was able to draw two conclusions from my analysis from the information in Thea
 The conclusion that was drawn from the analysis based on funding goals is that the lower the funding amount goal the higher the percentage of success. 
 
 #### **Limitiations**
-The dataset did have limitations because there was a lot of information that was not useful to the purpose of the project and had to be filtered out. It would be helpful to use the Box and Whisker plots to help identify factors that might be skewing that data one way or the other.
+The dataset did have limitations because there was a lot of information that was not useful to the purpose of the project and had to be filtered out. It would be helpful to use a Box and Whisker plots to ensure that there is are no factors that might be skewing that data one way or the other.
