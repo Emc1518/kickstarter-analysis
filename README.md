@@ -22,7 +22,7 @@ I used the `COUNTIFS`function in Excel to find out how the funding goals affecte
 
 ![Screen Shot 2021-04-17 at 11 47 01 PM](https://user-images.githubusercontent.com/81889167/115133778-ce6e0080-9fd8-11eb-992e-833bf261786c.png)
 
-I created a line graph to show that the higher the funding goal of a campaign the less likely it was to succeed. Goals with a goal amount less that $1000 were successful 76% of the time where campaigns with funding goals of more than $50000 were only successful %17 of the time. 
+I created a line graph to show that the higher the funding goal of a campaign the less likely it was to succeed. Funding campaigns with a goal amount less that $1000 were successful 76% of the time where campaigns with funding goals of more than $50000 were only successful %17 of the time. 
 ![Outcomes_vs_goals](https://user-images.githubusercontent.com/81889167/115133930-ce223500-9fd9-11eb-86a1-e3b9d99c47da.png)
 
 #### **Challenges**
@@ -46,4 +46,4 @@ I was able to draw two conclusions from my analysis from the information in Thea
 The conclusion that was drawn from the analysis based on funding goals is that the lower the funding amount goal the higher the percentage of success. 
 
 #### **Limitiations**
-The dataset did have limitations because there was a lot of information that was not useful to the purpose of the project and had to be filtered out. It would be helpful to use the Box and Whisker plots to help identify outliers that might be skewing data.
+The dataset did have limitations because there was a lot of information that was not useful to the purpose of the project and had to be filtered out. It would be helpful to use the Box and Whisker plots to help identify factors that might be skewing that data one way or the other.
