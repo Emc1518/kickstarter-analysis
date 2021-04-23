@@ -16,7 +16,7 @@ A line chart was created to help visualize the data.
 ![Theater_Outcomes_vs_launch](https://user-images.githubusercontent.com/81889167/115133455-5dc5e480-9fd6-11eb-86ae-23346286c428.png)
 This visualization shows that campaigns that were initiated in the months of May and June had the most success and campaigns in December were not very successful.
 
-#### **Analysis of Outcomes Based on Goals
+#### **Analysis of Outcomes Based on Goals**
 
 I used the `COUNTIFS`function in Excel to find out how the funding goals affected the outcome of the campaigns based on the range of goals. 
 
